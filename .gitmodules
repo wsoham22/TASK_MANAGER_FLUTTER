@@ -1,0 +1,3 @@
+[submodule "task_manager_flutter"]
+	path = task_manager_flutter
+	url = https://github.com/greendreamer/task_manager_flutter.git
